@@ -1,0 +1,2 @@
+def only_squares_can_join
+end

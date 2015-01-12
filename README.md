@@ -6,7 +6,7 @@
 
 By the end of this, students should be able to:
 
-- Objective 1
+- Manipulate arrays
 - Objective 2
 - Objective 3
 
